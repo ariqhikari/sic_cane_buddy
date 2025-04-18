@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+opencv-python-headless
+ultralytics
+streamlit-option-menu
+folium
+streamlit-folium
+pillow
