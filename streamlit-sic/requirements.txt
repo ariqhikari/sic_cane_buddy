@@ -6,3 +6,5 @@ streamlit-option-menu
 folium
 streamlit-folium
 pillow
+numpy
+openai
